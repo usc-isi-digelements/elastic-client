@@ -12,15 +12,15 @@
     "elastic.js"
   ],
   "main": "elastic-client.html",
-  "homepage": "https://github.com/DigElements/elastic-client",
+  "homepage": "https://github.com/usc-isi-digelements/elastic-client",
   "ignore": [
     "/.*",
     "/test/"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.2",
-    "elasticsearchjs-import": "DigElements/elasticsearchjs-import#2.0.0",
-    "elasticjs-import": "DigElements/elasticjs-import#~1.0.1"
+    "elasticsearchjs-import": "usc-isi-digelements/elasticsearchjs-import#2.0.0",
+    "elasticjs-import": "usc-isi-digelements/elasticjs-import#~1.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^2.0.0",
