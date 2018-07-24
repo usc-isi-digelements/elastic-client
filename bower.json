@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.2",
-    "elasticsearchjs-import": "usc-isi-digelements/elasticsearchjs-import#2.0.0",
+    "elasticsearchjs-import": "usc-isi-digelements/elasticsearchjs-import#^2.0.0",
     "elasticjs-import": "usc-isi-digelements/elasticjs-import#~1.0.1"
   },
   "devDependencies": {
